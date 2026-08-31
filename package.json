@@ -1,0 +1,12 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "Practical 4 - RESTful Task Management API using Node.js and Express (in-memory storage)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
